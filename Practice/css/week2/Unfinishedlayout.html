@@ -7,20 +7,7 @@
   <title>layout</title>
   
   <style>
-
-      * {
-          font-family: Monaco" !important;
-      }
-
-      html {}
-
-    body {
-      background-color: lightslategray;
-      background-image: url("sv.jpg");
-      background-size: cover;
-      background-repeat: repeat;
-  }
-
+      
       p {
           color: skyblue;
       }
@@ -38,9 +25,10 @@
       }
 
       #main {
-          background-color: transparent;
+          background-color: cyan;
           color: darkblue;
           width: 880px;
+          height: 400px;
           border:solid 10px orange;
           border-radius: 50px;
           margin: 25px auto;
@@ -49,12 +37,11 @@
       
       #main div {
           border-radius: 15px;
+          height: 100px;
           background-color: darksalmon;
           margin: 0 auto 10px auto;
           width: 75%;
           overflow: auto;
-          background-image: url("divio.jpg");
-          background-size: cover;
           padding-top: 20px;
       }
 
@@ -68,13 +55,8 @@
           font-family: "arial";
           margin: 20px;
       }
-
       #main .odd {
           background-color: hotpink
-      }
-
-      #main .even {
-          background-color: lightpink;
       }
 
       #footer p {
@@ -123,7 +105,7 @@
 <body>
    
     <!-- HTML5 version is  <header></header> -->
-    <h1 id="header">
+    <h1 id="header"
         <h1>This is the title of the header area</h1>
         <p>This area is the first div.</p>
     </div>
@@ -131,8 +113,7 @@
     <!-- HTML5 version is <main></main> -->
     <div id="main">
 
-        <div class="odd">
-            <p>This area is the second div.</p>
+        <div class="odd"><p>This area is the second div.</p>
 
         <div class="even">
 
@@ -151,7 +132,7 @@
         </div> 
     </div>
 
-    <!-- HTML5 version is <footer></footer> -->
+    <!-- HTNL5 version is <footer></footer> -->
     <div id="footer">
        <p>&copy: 2020 <span>Nastassia</span> Dudley</p>
        
