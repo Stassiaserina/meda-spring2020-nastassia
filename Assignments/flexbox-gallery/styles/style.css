@@ -1,0 +1,31 @@
+body {
+    background-color: mediumslateblue;
+}
+div#flex-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+
+#flex-gallery > figure {
+    background-color: white;
+    padding: 15px;
+    margin: 15px;
+}
+
+figure {
+    width: 202px;
+}
+
+figure > img {
+    width: 200px;
+    border-radius: 10px;
+}
+
+figure > img {
+    border: solid black 1px;
+}
+
+
+
+
