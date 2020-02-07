@@ -23,7 +23,18 @@ figure > img {
 }
 
 figure > img {
-    border: solid black 1px;
+    border: solid black 3px;
+}
+
+figcaption {
+    font-size: 24px;
+    text-align: center;
+    margin: 10 px;
+    line-height: 30px;
+    color: darkred;
+    /*font-weight: 700px;*/
+    font-style: italic;
+    font-family: "American-typewriter";
 }
 
 
