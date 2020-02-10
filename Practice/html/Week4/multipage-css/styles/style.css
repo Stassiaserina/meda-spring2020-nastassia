@@ -1,0 +1,76 @@
+body {
+    background-color: aquamarine;
+}
+
+header, main, footer {
+    width: 900px;
+    background-color: white;
+    margin: 0 auto;
+    padding: 50px;
+    font-size: 24px;    
+}
+
+header {
+    padding-right: 0;
+    width: 950px;
+}
+
+header, main {
+    border-bottom: black 5px solid;
+}
+
+header h1 {
+    font-family: "Gabriola";
+    font-size: 72px;
+    text-align: center;
+    color: aqua;
+    line_height: 84px;
+}
+
+#logo {
+    float: left;
+}
+
+#title-container {
+    margin-left: 200px;
+}
+
+nav ul {
+    text-align: right;
+}
+
+nav ul li {
+    display: inline-block;
+    background-color: red;
+    color: white;
+    padding: 12px;
+    margin-top: 25px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-family: "Arial";
+}
+
+nav ul li:hover {
+    background-color: yellow;
+}
+
+nav ul li a {
+    text-decoration: none;
+}
+
+nav ul li a:link {
+
+}
+
+nav ul li a:active {
+
+}
+
+nav ul li a:hover {
+    color: green;
+    background-color: yellow;
+}
+
+nav ul li a:visited {
+    
+}
