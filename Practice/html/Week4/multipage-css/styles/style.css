@@ -10,20 +10,22 @@ header, main, footer {
     font-size: 24px;    
 }
 
+/* HEADER STYLES */
+
 header {
     padding-right: 0;
     width: 950px;
 }
 
 header, main {
-    border-bottom: black 5px solid;
+    border-bottom: goldenrod 5px solid;
 }
 
 header h1 {
     font-family: "Gabriola";
     font-size: 72px;
     text-align: center;
-    color: aqua;
+    color: teal;
     line_height: 84px;
 }
 
@@ -41,7 +43,7 @@ nav ul {
 
 nav ul li {
     display: inline-block;
-    background-color: red;
+    background-color: goldenrod;
     color: white;
     padding: 12px;
     margin-top: 25px;
@@ -51,26 +53,77 @@ nav ul li {
 }
 
 nav ul li:hover {
-    background-color: yellow;
+    background-color: coral;
 }
-
+  
 nav ul li a {
     text-decoration: none;
 }
 
-nav ul li a:link {
-
+nav ul li a:link, nav ul li a:visited  {
+    color: white;
 }
 
 nav ul li a:active {
-
+    /* color: lightpink */
 }
 
 nav ul li a:hover {
-    color: green;
-    background-color: yellow;
+    color: aqua;
+    background-color: orangered;
+    text-decoration: underline overline #ff3028;
+    text-decoration-color: red;
 }
 
-nav ul li a:visited {
-    
+/* HEADER STYLES END */
+
+
+
+/* FOOTER STYLES START */
+footer {
+    color: Teal;
+    font-family: "Arial";
+    line-height: 48px;
 }
+
+#copyright {
+    color: goldenrod;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 15px;
+}
+
+#social-links ul {
+    text-align: center;
+}
+
+footer section ul li {
+    line-height: 100px;
+    box-sizing: border-box;
+}
+
+#social-links ul li {
+    display: inline-block;
+    padding: 8px;
+}
+
+#social-links ul li a {
+    padding: 50px;
+}
+
+#social-links ul li:hover {
+    color: white;
+    background-color: coral;
+}
+
+#social-links ul li a:link {
+    text-decoration: none;
+    color: coral;
+    line-height: 50px;
+}
+
+#social-links ul li a:hover {
+    color: coral;
+}
+
+/* FOOTER STYLES END */
