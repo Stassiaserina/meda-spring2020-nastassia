@@ -184,4 +184,24 @@ main#homepage p {
     margin-bottom: 20px;
 }
 
-/* Gallery STYLES END */
+/* GALLERY STYLES END */
+
+
+/* CONTACT STYLES START */
+
+#contact-flexbox {
+    display: flex;
+    height: 300px;
+}
+
+#contact-flexbox div:first-child {
+    flex-grow: 3;
+    background-color: grey;
+}
+
+#contact-flex-box div:last-child {
+    flex-grow: 1;
+    background-color: silver;
+}
+
+/* CONTACT STYLES END */
