@@ -80,6 +80,7 @@ nav ul li a:hover {
 
 
 /* FOOTER STYLES START */
+
 footer {
     color: Teal;
     font-family: "Arial";
@@ -95,35 +96,73 @@ footer {
 
 #social-links ul {
     text-align: center;
-}
-
-footer section ul li {
-    line-height: 100px;
-    box-sizing: border-box;
+    margin-bottom: 20px;
 }
 
 #social-links ul li {
     display: inline-block;
-    padding: 8px;
+    border: solid 1px red;
+    border-radius: 10px;
+    padding: 0;
+}
+
+#social-links ul li {
+    line-height: 100%;
+    box-sizing: border-box;
 }
 
 #social-links ul li a {
-    padding: 50px;
+    display: inline-block;
+    padding: 8px;
 }
 
-#social-links ul li:hover {
-    color: white;
-    background-color: coral;
+/* social links ul li:hover {
+    color: white
+    background-color: red
 }
+*/
 
 #social-links ul li a:link {
     text-decoration: none;
     color: coral;
-    line-height: 50px;
 }
 
-#social-links ul li a:hover {
-    color: coral;
+#social-links ul li:visited {
+    color: coral
 }
 
 /* FOOTER STYLES END */
+
+/* MAIN DEFAULT STYLES START */
+
+main {
+    font-family: "Arial";
+    color: rgb(33, 196, 179);
+}
+
+main h1 {
+    font-family: "Segoe Script";
+    font-size: 32px;
+    text-align: center;
+    line-height: 80px;
+    margin-top: 30px;
+    /*text-transform: uppercase; */
+}
+
+main p {
+    font-size: 24px;
+}
+
+/* MAIN DEFAULT STYLES END */
+
+/* HOMEPAGE STYLES START */
+
+main#homepage p {
+    margin: 20px;
+    line-height: 30px;
+    text-align: justify;
+}
+
+
+
+/* HOMEPAGE STYLES END */
