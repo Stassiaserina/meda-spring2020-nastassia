@@ -163,6 +163,25 @@ main#homepage p {
     text-align: justify;
 }
 
-
-
 /* HOMEPAGE STYLES END */
+
+
+/* GALLERY STYLES START */
+
+#gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+#gallery div {
+    width: 200px;
+}
+
+#gallery div img {
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+/* Gallery STYLES END */
