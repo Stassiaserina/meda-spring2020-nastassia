@@ -1,0 +1,48 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Grids Practice</title>
+
+<style>
+
+    #grid-container {
+        display: grid;
+        width: 400px;
+        height: 300px;
+        background-color: plum;
+        grid-template-columns: 100px 100px 150px 50px;
+        grid-template-rows: 150px 150px;
+    }
+
+    #box1 {
+        background-color:rebeccapurple;
+        grid-column-start: 1;
+        grid-column-end: 3;
+        grid-row-start: 1;
+        grid-row-end: 2;
+    }
+
+    #box2 {
+        background-color: royalblue;
+        grid-column-start: 4;
+        grid-column-end: 5;
+        grid-row-start: 1;
+        grid-row-end: 3;
+    }
+
+</style>
+
+</head>
+
+<body>
+
+    <div id="grid-container">
+        <div id="box1">Amazing</div>
+        <div id="box2">Am</div>
+        <div id="box3">I</div>
+
+</body>
+</html>

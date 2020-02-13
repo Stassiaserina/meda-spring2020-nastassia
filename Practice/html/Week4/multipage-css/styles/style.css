@@ -241,7 +241,7 @@ main#homepage p {
 #contact-form textarea {
     border: solid 5px coral;
     border-radius: 15px;
-    width: 100px;
+    width: 300px;
     max-width: 400px;
     height: 200px;
     box-sizing: border-box;
