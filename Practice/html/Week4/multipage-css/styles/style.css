@@ -189,19 +189,65 @@ main#homepage p {
 
 /* CONTACT STYLES START */
 
+#contact hr {
+    color: crimson;
+    width: 2px;
+}
+
 #contact-flexbox {
     display: flex;
-    height: 300px;
 }
 
 #contact-flexbox div:first-child {
     flex-grow: 3;
-    background-color: grey;
+    background-color: transparent;
 }
 
 #contact-flex-box div:last-child {
     flex-grow: 1;
-    background-color: silver;
+}
+
+#contact-form {
+    width: 400px;
+    margin: 20px auto;
+}
+
+#contact-form label {
+    font-size: 24px;
+}
+
+#contact-form input {
+    border: dashed 5px coral;
+    width: 400px;
+    height: 50px;
+    border-radius: 15px;
+    box-sizing: border-box;
+    font-size: 18px;
+    color: coral;
+    padding-left: 11px;
+}
+
+#contact-form .form-buttons {
+    margin: 20px;
+    color: crimson;
+    font-size: 18px;
+    width: 360px;
+}
+
+#contact-form .form-buttons:hover {
+    border: solid goldenrod 5px;
+}
+
+#contact-form textarea {
+    border: solid 5px coral;
+    border-radius: 15px;
+    width: 100px;
+    max-width: 400px;
+    height: 200px;
+    box-sizing: border-box;
+    padding: 11px;
+    font-size: 18px;
+    color: coral;
 }
 
 /* CONTACT STYLES END */

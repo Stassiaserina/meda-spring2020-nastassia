@@ -37,32 +37,37 @@
     </header>
 
     <main id="Contact">
+
+        <h1><strong><em>Contact US!</em></strong></h1>
+
         <div id="contact-flexbox">
 
             <!-- div:first-child selects the following: -->
 
             <div>
-                <form>
-                    <label for="first name"></label>First Name: </label>
-                    <input type="text" id="first name" /><br />
+                <!-- <form action="https://www.google.com/nonexistingwebpage" -->
 
-                    <label for="last name"></label>Last Name: </label>
-                    <input type="text" id="last name" /><br />
+                    <form id="contact-form"action="#">
 
-                    <label for="phone number"></label>Phone Number: </label>
-                    <input type="text" id="phone number" /><br />
+                    <label for="name">Name: </label>
+                    <input type="text" id="name" /><br />
 
-                    <label for="email"></label>Email: </label>
+                    <label for="email">Email: </label>
                     <input type="text" id="email" /><br />
 
-                    <label for="comments"></label>Comments: </label></br>
+                    <label for="zip code">Zip Code: </label>
+                    <input type="text" id="zip code" /><br />
+
+                    <label for="subject">Subject: </label>
+                    <input type="text" id="subject" /><br />
+
+                    <label for="message">Message: </label>
+                    <textarea id="message"></textarea>
+                    <br />
+                    <input class="form-buttons" type="reset" />
+                    <input class="form-buttons" type="submit" />
                     
                     <!-- input type="text" /><br /> -->
-                   
-
-                    <textarea>
-
-                    </textarea>
 
                 </form>
             </div>
@@ -70,7 +75,23 @@
 
             <!-- div:last-child selects the following: -->
 
-            <div></div>
+            <div>
+                <dl id="additional-info">
+
+                <dt>Address:</dt>
+                <dd>395 Posh St. <br/>San Francisco, California, 94110</dd>
+                <dt>Email Address:</dt>
+            
+                <dd>
+                    <a href="mailto:reallyposhgallery.com">reallyposhgallery.com</a>
+                </dd>
+
+                <dt>Phone:</dt>
+                <dd>
+                    <a href="(415)RLY-POSH">(415)RLY-POSH</a>
+                </dd>
+
+            </div>
 
         </div>
 
