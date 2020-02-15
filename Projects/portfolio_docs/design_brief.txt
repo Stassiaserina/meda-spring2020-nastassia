@@ -1,201 +1,223 @@
-Portfolio Preparations/Requirements
+Portfolio Website Specification
 
-A.      Portfolio Website Specification
+-----------------------------------------------------------------
+Colors Used
 
-A.1     Colors Used
-
-A.1.a   Background Color(s): 
-		Aquamarine
+Background Color(s): 
+		Aquamarine, MintCream
 
 		background image:
 		gray-and-black-hive-printed-textile-691710.jpg
 
-A.1.b   Text Color(s)
+Text Color(s)
 
-A.1.c.1 Header Text Color(s): Teal/Crimson
-A.1.c.2 Body Text Color(s): goldenrod/aquamarine/white
-A.1.d.3 Link Text Color(s): Teal/Crimson
+1 Header Text Color(s): Teal/Tomato/black/white
+2 Body Text Color(s): rgb(33, 196, 179)/goldenrod/black
+3 Link Text Color(s): Teal/Tomato/goldenrod/white
 
-A.2     Text to Use
+Text to Use
 
-A.3     Images & Photos to Use
+	Font family: Courier New, Palatino Linotype
+
+-----------------------------------------------------------------
+Images & Photos to Use
 		portfolio_pic.jpg
 		sole_vitae_apotheke.jpg
 		art-board-cooking-flowers.jpg
 		art-materials-blank-business-coffee.jpg
 		gray-and-black-hive-printed-textile-691710.jpg
 
-A.3.a   Icons
+Icons
 		github
 		instagram
 		twitter
 		facebook
 
-A.3.a.1 Licensing Info
-
-A.3.b   Portrait Photo to Use (REQ: Minimum)
+Portrait Photo to Use (REQ: Minimum)
 		portfolio_pic.jpg
 
-A.3.b.1 Licensing Info
-		All images on the home page are licensed under CC - 			Creative Commons licensing and agreements. Free to 			use. No attribution required... 
+Licensing Info
+		All images are licensed under CC - 			Creative Commons licensing and agreements. Free to 			use. No attribution required... (except for my portfolio image on about me page and image on project page for products created.
 
-A.3.c   Photo X (TO BE DETERMINED)
+-----------------------------------------------------------------
+Site Map
 
-A.3.c.1 Licensing Info
+Document file is named "sitemap.pdf" with applicable file 		extension.
+Document file contain specs for site pages.
 
+1 Contains specs for "Projects" page (REQ: Minimum) 
 
+2 Contains specs for "Contact" page (REQ: Minimum) 
 
-A.4     Site Map
+3 Contains specs for "About Me" page (REQ: Minimum)
 
-A.4.a   Document file is named "sitemap.pdf" with applicable file 		extension.
-A.4.b   Document file contain specs for site pages.
-
-A.4.b.1 Contains specs for "Projects" page (REQ: Minimum) 
-
-A.4.b.2 Contains specs for "Contact" page (REQ: Minimum) 
-
-A.4.b.3 Contains specs for "About Me" page (REQ: Minimum)
-
-A.4.b.4 Contains specs for "Home Page" page (REQ: Minimum)
+4 Contains specs for "Home Page" page (REQ: Minimum)
 
 
-A.5     Web Page Wireframes
+-----------------------------------------------------------------
+Web Page Wireframes
 
-A.5.a   Projects Page Wireframe
-A.5.a.1 File named "wireframe_projects.pdf"
+Projects Page Wireframe
+File named "wireframe_projects.pdf"
 
-A.5.b   Contact Page Wireframe
-A.5.b.1 File named "wireframe_contactme.pdf"
+Contact Page Wireframe
+File named "wireframe_contactme.pdf"
 
-A.5.c   About Me Page Wireframe
-A.5.c.1 File named "wireframe_aboutme.pdf"
+About Me Page Wireframe
+File named "wireframe_aboutme.pdf"
 
-A.5.d   Web Page X Wireframe
-A.5.d.1 File named "wireframe_homepage.pdf"
-
-
-
-A.6     Web Page Text/Content
+Home Page Wireframe
+File named "wireframe_homepage.pdf"
 
 
-A.6.a   HOME PAGE
+-----------------------------------------------------------------
+Web Page Text/Content
+
+
+Home PAGE
 
 		Header: Welcome Home!
 
 
-		Body:
+		Body: 	Everything 
+				 is by 
+				 Design
+
+		Footer:	Copyright info and social links:
+				
+				Nastassia Dudley
+				git hub, Linkedin, instagram, twitter
 
 
-		Footer:
-
-
-		Link Text:
+		Link Text: 
+				Hover, Visited, Active
 		 
 
 
 
 
+-----------------------------------------------------------------
+PROJECTS PAGE
 
-A.6.b   PROJECTS PAGE
-
-		Header:
-
-
-		Body:
+		Header: Special Projects
 
 
-		Footer:
+		Body: Everything is by design! Watch me grow and track 		my progress! 
+
+		Image  	-    Web Design:
+					Through my lens I see everything by 						design with design in mind. Check out 						my git hub to preview my projects.
+
+		Image      -    Content Creation: 
+					Check out written works in progress, 						more like a work in progress when I'm 						not helping others. Head over to 						tumblr - link to tumblr
+
+		Image      -    Products Created:
+					Thus far products created in the Sole 						Vitae, LLC "Apotheke" wellness line 						are as follows: Infused oils for hair 						and skin, homemade "organic" and all 						natural soaps, as well as bladder 						wrack, sea moss, and burdock root 						supplements. And more to come!
+
+
+		Footer: 	Copyright info and social links:
+
+				Nastassia Dudley
+				git hub, Linkedin, instagram, twitter
+
 
 
 		Link Text:
+				Hover, Visited, Active
+			
 
 
 
 
 
-A.6.c   CONTACT PAGE
+-----------------------------------------------------------------
+CONTACT PAGE
 
-		Header:
-
-
-		Body:
+		Header: Contact Me
 
 
-		Footer:
+		Body: I Love Meeting New People! 
+				Let's Connect!
+			email, phone number, and address
+
+
+		Footer: Copyright info and social links:
+
+				Nastassia Dudley
+				git hub, Linkedin, instagram, twitter
 		
 
+		Link text: 
+				Hover, Visited, Active
+			 
+
+
+
+
+-----------------------------------------------------------------
+ABOUT PAGE
+
+		Header: About Me
+				Nastassia Serina
+				#Community #Content #Code
+
+
+		Body: 
+			Hello there! Thanks for visiting. Since you are 				here I will tell you a bit about Nastassia 					Serina. She is an extremely detail-oriented 				person. No, but for real! Her lists have lists 				and are exceptionally organized! Nastassia works 				well under pressure! She eats and breathes all 				things creation. Nastassia's goal is to empower 				others through her niche and love for design, 				wellness, and writing. You can say her mission is 			to heal others through her creativity!
+
+			As an experienced public speaker, Nastassia has a 			seasoned background in community outreach whereas 			she has volunteered for several organizations 				such as Code Tenderloin, the Shelter Monitoring 				Committee, the Family Advisory Council, and the 				Guardian Ad Litem Program. She also has an opaque 			love for poetry; side bar! She has ghost written 				as well.
+
+			Check out her Current skills!
+				-Public speaking -content 								creation -web design -wellness product						formulation and consulting -Microsoft 						Office and more!
+
+
+		Footer: Copyright info and social links
+
+				Nastassia Dudley
+				git hub, Linkedin, instagram, twitter
+
+
 		Link text:
 
+				Hover, Visited, Active
+
+-----------------------------------------------------------------
+
+Résumé PDF file
+
+		Nastassia_Analyst_Resume.pdf
+
+
+-----------------------------------------------------------------Example Portfolio Websites
+
+
+Portfolio Website One
+
+1 Portfolio Website One URL: https://kuon.space
+2 Portfolio Website One Likes: Sleek and Simple
+3 Portfolio Website One Dislikes: Too responsive/images 			move when you hover/scroll on any item on the page
+4 Portfolio Website One Header: Kuon Yagi/Wantedly - Simple 		header, almost did't recognize it to be.
+5 Portfolio Website One Body: Fluent - Header/Body/Footer 			run together.
+6 Portfolio Website One Footer: Footer unrecognizable.
 
 
 
+Portfolio Website Two
 
-A.6.d   ABOUT PAGE
-A.6.d.1 Contains at least 2 paragraphs.
-
-		Header:
-
-
-		Body:
-
-
-		Footer:
-
-
-		Link text:
+1 Portfolio Website Two URL: https://juliebonnemoy.com
+2 Portfolio Website Two Likes: Interactive/displays "rock, 		paper, scissors game while page loads.
+3 Portfolio Website Two Dislikes: pages run together via scrolling. Page has text for background/somewhat unable to read.
+4 Portfolio Website Two Header: "Hello Strtanger..."
+5 Portfolio Website Two Body: "I am Julie, a freelance..."
+6 Portfolio Website Two Footer "Let's work together"... Very 	inviting. Website has a hippie vibe.
 
 
 
+Portfolio Website Three
 
+1 Portfolio Website Three URL: http://www.adhamdannaway.com
+2 Portfolio Website Three Likes: Partial human, partial 		piece of art for portrait. Portrait changes from human to 	art when the user clicks on the art portait. Art portrait 	changes to human when the user scrolls over the "coder" 	section.
+3 Portfolio Website Three Dislikes: Footer is bland/lacks 			design.
+4 Portfolio Website Three Header: Logo, nav bar, and social 		links.
+5 Portfolio Website Three Body: Sample work in body.
+6 Portfolio Website Three Footer: Copyright, nav links, and 		social icons.
 
-
-A.6.d.2 Résumé PDF file
-
-
-A.6.e   PAGE_NAME X (TO BE DETERMINED)
-
-
-
-A.7     Example Portfolio Websites
-
-
-A.7.a   Portfolio Website One
-
-A.7.a.1 Portfolio Website One URL: https://kuon.space
-A.7.a.2 Portfolio Website One Likes: Sleek and Simple
-A.7.a.3 Portfolio Website One Dislikes: Too responsive/images 			move when you hover/scroll on any item on the page
-A.7.a.4 Portfolio Website One Header: Kuon Yagi/Wantedly - Simple 		header, almost did't recognize it to be.
-A.7.a.5 Portfolio Website One Body: Fluent - Header/Body/Footer 			run together.
-A.7.a.6 Portfolio Website One Footer: Footer unrecognizable.
-
-
-
-A.7.b   Portfolio Website Two
-
-A.7.b.1 Portfolio Website Two URL: https://juliebonnemoy.com
-A.7.b.2 Portfolio Website Two Likes: Interactive/displays "rock, 		paper, scissors game while page loads.
-A.7.b.3 Portfolio Website Two Dislikes: pages run together via scrolling. Page has text for background/somewhat unable to read.
-A.7.b.4 Portfolio Website Two Header: "Hello Strtanger..."
-A.7.b.5 Portfolio Website Two Body: "I am Julie, a freelance..."
-A.7.b.6 Portfolio Website Two Footer "Let's work together"... Very inviting. Website has a hippie vibe.
-
-
-
-A.7.c   Portfolio Website Three
-
-A.7.c.1 Portfolio Website Three URL: http://www.adhamdannaway.com
-A.7.c.2 Portfolio Website Three Likes: Partial human, partial 		piece of art for portrait. Portrait changes from human to 	art when the user clicks on the art portait. Art portrait 	changes to human when the user scrolls over the "coder" 	section.
-A.7.c.3 Portfolio Website Three Dislikes: Footer is bland/lacks 			design.
-A.7.c.4 Portfolio Website Three Header: Logo, nav bar, and social 		links.
-A.7.c.5 Portfolio Website Three Body: Sample work in body.
-A.7.c.6 Portfolio Website Three Footer: Copyright, nav links, and 		social icons.
-
-
-
-A.7.d   Portfolio Website Four
-A.7.d.1 Portfolio Website Four URL
-A.7.d.2 Portfolio Website Four Likes
-A.7.d.3 Portfolio Website Four Dislikes
-A.7.d.4 Portfolio Website Four Header
-A.7.d.5 Portfolio Website Four Body
-A.7.d.6 Portfolio Website Four Footer

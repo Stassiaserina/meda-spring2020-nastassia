@@ -25,7 +25,7 @@ header h1 {
     font-family: "Gabriola";
     font-size: 72px;
     text-align: center;
-    color: teal;
+    color: crimson;
     line_height: 84px;
 }
 
@@ -101,7 +101,7 @@ footer {
 
 #social-links ul li {
     display: inline-block;
-    border: solid 1px red;
+    border: solid 1px tomato;
     border-radius: 10px;
     padding: 0;
 }
@@ -127,8 +127,13 @@ footer {
     color: coral;
 }
 
-#social-links ul li:visited {
+#social-links ul li a:visited {
     color: coral
+}
+
+#social-links ul li a:hover {
+    color: white;
+    background-color: goldenrod;
 }
 
 /* FOOTER STYLES END */
@@ -190,7 +195,7 @@ main#homepage p {
 /* CONTACT STYLES START */
 
 #contact hr {
-    color: crimson;
+    color: tomato;
     width: 2px;
 }
 
