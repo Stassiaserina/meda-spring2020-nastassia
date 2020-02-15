@@ -21,11 +21,13 @@ Text to Use
 
 -----------------------------------------------------------------
 Images & Photos to Use
-		portfolio_pic.jpg
+		portfolio_pic.jpg/
+		nailah_and_nastassia.jpg
 		sole_vitae_apotheke.jpg
 		art-board-cooking-flowers.jpg
 		art-materials-blank-business-coffee.jpg
 		gray-and-black-hive-printed-textile-691710.jpg
+		nailah_and_nastassia.jpg
 
 Icons
 		github
