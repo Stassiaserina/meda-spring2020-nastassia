@@ -1,0 +1,201 @@
+Portfolio Preparations/Requirements
+
+A.      Portfolio Website Specification
+
+A.1     Colors Used
+
+A.1.a   Background Color(s): 
+		Aquamarine
+
+		background image:
+		gray-and-black-hive-printed-textile-691710.jpg
+
+A.1.b   Text Color(s)
+
+A.1.c.1 Header Text Color(s): Teal/Crimson
+A.1.c.2 Body Text Color(s): goldenrod/aquamarine/white
+A.1.d.3 Link Text Color(s): Teal/Crimson
+
+A.2     Text to Use
+
+A.3     Images & Photos to Use
+		portfolio_pic.jpg
+		sole_vitae_apotheke.jpg
+		art-board-cooking-flowers.jpg
+		art-materials-blank-business-coffee.jpg
+		gray-and-black-hive-printed-textile-691710.jpg
+
+A.3.a   Icons
+		github
+		instagram
+		twitter
+		facebook
+
+A.3.a.1 Licensing Info
+
+A.3.b   Portrait Photo to Use (REQ: Minimum)
+		portfolio_pic.jpg
+
+A.3.b.1 Licensing Info
+		All images on the home page are licensed under CC - 			Creative Commons licensing and agreements. Free to 			use. No attribution required... 
+
+A.3.c   Photo X (TO BE DETERMINED)
+
+A.3.c.1 Licensing Info
+
+
+
+A.4     Site Map
+
+A.4.a   Document file is named "sitemap.pdf" with applicable file 		extension.
+A.4.b   Document file contain specs for site pages.
+
+A.4.b.1 Contains specs for "Projects" page (REQ: Minimum) 
+
+A.4.b.2 Contains specs for "Contact" page (REQ: Minimum) 
+
+A.4.b.3 Contains specs for "About Me" page (REQ: Minimum)
+
+A.4.b.4 Contains specs for "Home Page" page (REQ: Minimum)
+
+
+A.5     Web Page Wireframes
+
+A.5.a   Projects Page Wireframe
+A.5.a.1 File named "wireframe_projects.pdf"
+
+A.5.b   Contact Page Wireframe
+A.5.b.1 File named "wireframe_contactme.pdf"
+
+A.5.c   About Me Page Wireframe
+A.5.c.1 File named "wireframe_aboutme.pdf"
+
+A.5.d   Web Page X Wireframe
+A.5.d.1 File named "wireframe_homepage.pdf"
+
+
+
+A.6     Web Page Text/Content
+
+
+A.6.a   HOME PAGE
+
+		Header: Welcome Home!
+
+
+		Body:
+
+
+		Footer:
+
+
+		Link Text:
+		 
+
+
+
+
+
+A.6.b   PROJECTS PAGE
+
+		Header:
+
+
+		Body:
+
+
+		Footer:
+
+
+		Link Text:
+
+
+
+
+
+A.6.c   CONTACT PAGE
+
+		Header:
+
+
+		Body:
+
+
+		Footer:
+		
+
+		Link text:
+
+
+
+
+
+A.6.d   ABOUT PAGE
+A.6.d.1 Contains at least 2 paragraphs.
+
+		Header:
+
+
+		Body:
+
+
+		Footer:
+
+
+		Link text:
+
+
+
+
+
+
+A.6.d.2 Résumé PDF file
+
+
+A.6.e   PAGE_NAME X (TO BE DETERMINED)
+
+
+
+A.7     Example Portfolio Websites
+
+
+A.7.a   Portfolio Website One
+
+A.7.a.1 Portfolio Website One URL: https://kuon.space
+A.7.a.2 Portfolio Website One Likes: Sleek and Simple
+A.7.a.3 Portfolio Website One Dislikes: Too responsive/images 			move when you hover/scroll on any item on the page
+A.7.a.4 Portfolio Website One Header: Kuon Yagi/Wantedly - Simple 		header, almost did't recognize it to be.
+A.7.a.5 Portfolio Website One Body: Fluent - Header/Body/Footer 			run together.
+A.7.a.6 Portfolio Website One Footer: Footer unrecognizable.
+
+
+
+A.7.b   Portfolio Website Two
+
+A.7.b.1 Portfolio Website Two URL: https://juliebonnemoy.com
+A.7.b.2 Portfolio Website Two Likes: Interactive/displays "rock, 		paper, scissors game while page loads.
+A.7.b.3 Portfolio Website Two Dislikes: pages run together via scrolling. Page has text for background/somewhat unable to read.
+A.7.b.4 Portfolio Website Two Header: "Hello Strtanger..."
+A.7.b.5 Portfolio Website Two Body: "I am Julie, a freelance..."
+A.7.b.6 Portfolio Website Two Footer "Let's work together"... Very inviting. Website has a hippie vibe.
+
+
+
+A.7.c   Portfolio Website Three
+
+A.7.c.1 Portfolio Website Three URL: http://www.adhamdannaway.com
+A.7.c.2 Portfolio Website Three Likes: Partial human, partial 		piece of art for portrait. Portrait changes from human to 	art when the user clicks on the art portait. Art portrait 	changes to human when the user scrolls over the "coder" 	section.
+A.7.c.3 Portfolio Website Three Dislikes: Footer is bland/lacks 			design.
+A.7.c.4 Portfolio Website Three Header: Logo, nav bar, and social 		links.
+A.7.c.5 Portfolio Website Three Body: Sample work in body.
+A.7.c.6 Portfolio Website Three Footer: Copyright, nav links, and 		social icons.
+
+
+
+A.7.d   Portfolio Website Four
+A.7.d.1 Portfolio Website Four URL
+A.7.d.2 Portfolio Website Four Likes
+A.7.d.3 Portfolio Website Four Dislikes
+A.7.d.4 Portfolio Website Four Header
+A.7.d.5 Portfolio Website Four Body
+A.7.d.6 Portfolio Website Four Footer
