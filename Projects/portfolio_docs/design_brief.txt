@@ -27,7 +27,7 @@ Images & Photos to Use
 		art-board-cooking-flowers.jpg
 		art-materials-blank-business-coffee.jpg
 		gray-and-black-hive-printed-textile-691710.jpg
-		nailah_and_nastassia.jpg
+	
 
 Icons
 		github
