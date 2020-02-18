@@ -1,0 +1,55 @@
+In one sentence, explain what Git is?
+
+Git is a type of version control system (VCS) that makes it easier to track changes to files.
+
+
+
+
+Write these commands in order: git commit, git push, git add.
+
+git add .,  git commit -m"*****", git push
+
+
+
+
+When you go to a website, what is the filename of the web page that normally loads by default?
+Home page/index.html
+
+
+
+
+The syntax of CSS is easy, but what makes CSS difficult?
+CSS isn't difficult - you're making it difficult. Because you haven't understood the basic principles of HTML and CSS. HTML is a language for indicating the semantics of the content, not their styling. CSS is the language for your styling.
+
+
+
+
+How many children should the html tag have?
+
+
+
+
+What is a difference between a text editor and a code editor?
+
+
+
+
+Is HTML a programming language?
+
+
+
+
+Can you use the CSS language on its own? Explain.
+
+
+
+
+When you create a div, what do you need to make it visible on the webpage?
+
+
+
+
+What is the HTML hyperlink element?
+
+
+
