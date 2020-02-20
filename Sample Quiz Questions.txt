@@ -31,25 +31,35 @@ How many children should the html tag have?
 
 What is a difference between a text editor and a code editor?
 
+Text editor rich or plain text.... Code editor only plain text.
+
 
 
 
 Is HTML a programming language?
-
+No logic flow on it's own. It is a mark-up language.
 
 
 
 Can you use the CSS language on its own? Explain.
+No. html is needed. Does not work on it's own. CSS is rules of an element in an html file. CSS depends on html to display it's contents.
 
 
 
 
 When you create a div, what do you need to make it visible on the webpage?
+Can use a background color or give it a border. If it has no content (it will have a height of zero) then you need to give it a height and a bacjground color.
 
 
 
 
 What is the HTML hyperlink element?
+It is the anchor or the a.- a sends you to somewhere else.
+ the proper- The link element is to use is to link to CSS files.
+
+
+
+What is the difference between head, header, and H1?
 
 
 
