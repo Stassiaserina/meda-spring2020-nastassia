@@ -1,5 +1,6 @@
 body {
     background-color: aquamarine;
+    background-image: ;
     font-family:
 }
 
@@ -29,7 +30,7 @@ header h1 {
     line_height: 84px;
 }
 
-#logo {
+#portrait {
     float: left;
 }
 
