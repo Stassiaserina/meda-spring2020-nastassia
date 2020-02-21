@@ -1,0 +1,258 @@
+body {
+    background-color: aquamarine;
+    font-family:
+}
+
+header, main, footer {
+    width: 900px;
+    background-color: white;
+    margin: 0 auto;
+    padding: 50px;
+    font-size: 24px;    
+}
+
+/* HEADER STYLES */
+
+header {
+    padding-right: 0;
+    width: 950px;
+}
+
+header, main {
+    border-bottom: goldenrod 5px solid;
+}
+
+header h1 {
+    font-size: 72px;
+    text-align: center;
+    color: crimson;
+    line_height: 84px;
+}
+
+#logo {
+    float: left;
+}
+
+#title-container {
+    margin-left: 200px;
+}
+
+nav ul {
+    text-align: right;
+}
+
+nav ul li {
+    display: inline-block;
+    background-color: goldenrod;
+    color: white;
+    padding: 12px;
+    margin-top: 25px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-family: "Arial";
+}
+
+nav ul li:hover {
+    background-color: coral;
+}
+  
+nav ul li a {
+    text-decoration: none;
+}
+
+nav ul li a:link, nav ul li a:visited  {
+    color: white;
+}
+
+nav ul li a:active {
+    /* color: lightpink */
+}
+
+nav ul li a:hover {
+    color: aqua;
+    background-color: orangered;
+    text-decoration: underline overline #ff3028;
+    text-decoration-color: red;
+}
+
+/* HEADER STYLES END */
+
+
+
+/* FOOTER STYLES START */
+
+footer {
+    color: Teal;
+    font-family: "Arial";
+    line-height: 48px;
+}
+
+#copyright {
+    color: goldenrod;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 15px;
+}
+
+#social-links ul {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#social-links ul li {
+    display: inline-block;
+    border: solid 1px tomato;
+    border-radius: 10px;
+    padding: 0;
+}
+
+#social-links ul li {
+    line-height: 100%;
+    box-sizing: border-box;
+}
+
+#social-links ul li a {
+    display: inline-block;
+    padding: 8px;
+}
+
+/* social links ul li:hover {
+    color: white
+    background-color: red
+}
+*/
+
+#social-links ul li a:link {
+    text-decoration: none;
+    color: coral;
+}
+
+#social-links ul li a:visited {
+    color: coral
+}
+
+#social-links ul li a:hover {
+    color: white;
+    background-color: goldenrod;
+}
+
+/* FOOTER STYLES END */
+
+/* MAIN DEFAULT STYLES START */
+
+main {
+    font-family: "Arial";
+    color: rgb(33, 196, 179);
+}
+
+main h1 {
+    font-family: "Segoe Script";
+    font-size: 32px;
+    text-align: center;
+    line-height: 80px;
+    margin-top: 30px;
+    /*text-transform: uppercase; */
+}
+
+main p {
+    font-size: 24px;
+}
+
+/* MAIN DEFAULT STYLES END */
+
+/* HOMEPAGE STYLES START */
+
+main#homepage p {
+    margin: 20px;
+    line-height: 30px;
+    text-align: justify;
+}
+
+/* HOMEPAGE STYLES END */
+
+
+/* GALLERY STYLES START */
+
+#gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+#gallery div {
+    width: 200px;
+}
+
+#gallery div img {
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+/* GALLERY STYLES END */
+
+
+/* CONTACT STYLES START */
+
+#contact hr {
+    color: tomato;
+    width: 2px;
+}
+
+#contact-flexbox {
+    display: flex;
+}
+
+#contact-flexbox div:first-child {
+    flex-grow: 3;
+    background-color: transparent;
+}
+
+#contact-flex-box div:last-child {
+    flex-grow: 1;
+}
+
+#contact-form {
+    width: 400px;
+    margin: 20px auto;
+}
+
+#contact-form label {
+    font-size: 24px;
+}
+
+#contact-form input {
+    border: dashed 5px coral;
+    width: 400px;
+    height: 50px;
+    border-radius: 15px;
+    box-sizing: border-box;
+    font-size: 18px;
+    color: coral;
+    padding-left: 11px;
+}
+
+#contact-form .form-buttons {
+    margin: 20px;
+    color: crimson;
+    font-size: 18px;
+    width: 360px;
+}
+
+#contact-form .form-buttons:hover {
+    border: solid goldenrod 5px;
+}
+
+#contact-form textarea {
+    border: solid 5px coral;
+    border-radius: 15px;
+    width: 300px;
+    max-width: 400px;
+    height: 200px;
+    box-sizing: border-box;
+    padding: 11px;
+    font-size: 18px;
+    color: coral;
+}
+
+/* CONTACT STYLES END */
