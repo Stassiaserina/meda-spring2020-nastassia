@@ -82,6 +82,12 @@ nav ul li a:hover {
 
 /* FOOTER STYLES START */
 
+#footer-content {
+    display: flex;
+    justify-content: space-between;
+
+}
+
 footer {
     color: Teal;
     font-family: "Arial";
@@ -98,13 +104,13 @@ footer {
 #social-links ul {
     text-align: left;
     margin-bottom: 20px;
-}
+    }
 
 #social-links ul li {
     display: inline-block;
     border: solid 1px tomato;
     border-radius: 10px;
-    padding: 0;
+    padding: 0px;
 }
 
 #social-links ul li {
