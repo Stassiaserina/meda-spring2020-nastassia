@@ -26,7 +26,7 @@ header, main {
 header h1 {
     font-size: 72px;
     text-align: center;
-    color: crimson;
+    color: tomato;
     line_height: 84px;
 }
 
@@ -91,12 +91,12 @@ footer {
 #copyright {
     color: goldenrod;
     text-transform: uppercase;
-    text-align: center;
+    text-align: right;
     font-size: 15px;
 }
 
 #social-links ul {
-    text-align: center;
+    text-align: left;
     margin-bottom: 20px;
 }
 
@@ -125,16 +125,16 @@ footer {
 
 #social-links ul li a:link {
     text-decoration: none;
-    color: coral;
+    color: teal;
 }
 
 #social-links ul li a:visited {
-    color: coral
+    color: goldenrod;
 }
 
 #social-links ul li a:hover {
     color: white;
-    background-color: goldenrod;
+    background-color: tomato;
 }
 
 /* FOOTER STYLES END */
