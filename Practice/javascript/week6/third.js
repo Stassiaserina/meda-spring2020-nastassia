@@ -58,3 +58,12 @@ var roundedRandomNumber = Math.floor(someNumber);
 
 // Print random number.
 console.log(roundedRandomNumber);
+
+
+
+
+
+
+
+
+
