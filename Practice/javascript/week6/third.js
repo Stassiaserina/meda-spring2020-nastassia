@@ -31,7 +31,7 @@ console.log(total);
 //var radius = 5000;
 
 //Looked at the built-in Math Library of Javascript.
-va radius = 40;
+var radius = 40;
 
 var diameterOfCircle = 2 * radius;
 //var perimeterOfCircle = 3.14159265359 * diameterOfCircle.
@@ -61,8 +61,10 @@ var someNumber = ( Math.random() * 1000 ) + 1;
 
 // or use the existing variable:
 // someNumber = Math.floor(someNumber);
+//We floor the random number so decimals are removed.
 var roundedRandomNumber = Math.floor
 (someNumber);
 
+//Print random number.
 console.log(roundedRandomNumber);
 
