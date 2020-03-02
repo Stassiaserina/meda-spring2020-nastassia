@@ -1,4 +1,4 @@
-var myVAr = "one Item";
+//var myVAr = "one Item";
 var firstDay = "monday";
 var secondDay = "tuesday";
 

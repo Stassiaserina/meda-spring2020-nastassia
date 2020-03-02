@@ -170,10 +170,15 @@ main p {
 
 /* HOMEPAGE STYLES START */
 
-main#homepage p {
-    margin: 20px;
+
+
+
+
+#home {
+    /* margin: 20px; */
     line-height: 30px;
     text-align: justify;
+    background: url("images/backgroundimage.jpg");
 }
 
 /* HOMEPAGE STYLES END */
@@ -181,12 +186,13 @@ main#homepage p {
 
 /* GALLERY STYLES START */
 
-#gallery {
+/* #gallery {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     margin-top: 20px;
 }
+
 
 #gallery div {
     width: 200px;
@@ -197,11 +203,24 @@ main#homepage p {
     margin-bottom: 20px;
 }
 
-/* GALLERY STYLES END */
+ /* GALLERY STYLES END */
+
+
+
 
 
 /* CONTACT STYLES START */
 
+
+#contact-message p {font-family: ;
+    text-align: center;
+    font-size: 60px !important;
+
+}
+
+
+
+/* 
 #contact hr {
     color: tomato;
     width: 2px;
@@ -262,5 +281,6 @@ main#homepage p {
     font-size: 18px;
     color: coral;
 }
+*/
 
 /* CONTACT STYLES END */
