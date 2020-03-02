@@ -204,6 +204,8 @@ if ( level > 0 && level < 18) {
 }
 
 
+/* If then Else If,  OR If then Else... Both Else If and Else are optional... Or If Only */
+
 /*
 if always comes first.only one if statement.
 else if must come after if. else ifs are optional.
