@@ -1,7 +1,8 @@
 body {
     background-color: mintcream;
-    background-image: ;
+   /* background-image: ; */
     font-family: "Courier New", "Palatino Linotype";
+    color: rgb(33, 196, 179);
 }
 
 header, main, footer {
@@ -155,6 +156,11 @@ main {
     color: rgb(33, 196, 179);
 }
 
+main h2 {
+
+    text-align: center;
+    margin: auto;
+}
 
 /*
 main h1 {
@@ -218,7 +224,8 @@ main p {
 
 
 #contact-message {
-    border: 15px solid;
+    border: 8px solid;
+    border-color: goldenrod;
 }
 
 
