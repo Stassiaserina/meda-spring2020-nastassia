@@ -1,13 +1,13 @@
 body {
     background-color: mintcream;
-   /* background-image: ; */
+    background-image: url("images/backgroundimage.jpg");
     font-family: "Courier New", "Palatino Linotype";
     color: rgb(33, 196, 179);
 }
 
 header, main, footer {
     width: 900px;
-    background-color: white;
+    /*background-color: white;*/
     margin: 0 auto;
     padding: 50px;
     font-size: 24px;    
@@ -57,7 +57,7 @@ nav ul li {
 }
 
 nav ul li:hover {
-    background-color: coral;
+    background-color: tomato;
 }
   
 nav ul li a {
@@ -69,15 +69,14 @@ nav ul li a:link, nav ul li a:visited  {
 }
 
 nav ul li a:active {
-
-    /* color: lightpink */
+    color: tomato;
 }
 
 nav ul li a:hover {
-    color: aqua;
-    background-color: orangered;
-    text-decoration: underline overline #ff3028;
-    text-decoration-color: red;
+    color: teal;
+    background-color: tomato;
+    text-decoration: underline overline goldenrod;
+    text-decoration-color: white;
 }
 
 /* HEADER STYLES END */
@@ -134,12 +133,12 @@ footer {
 */
 
 #social-links ul li a:link {
-    text-decoration: none;
-    color: teal;
+    color: goldenrod;
 }
 
 #social-links ul li a:visited {
-    color: goldenrod;
+    color: rgb(33, 196, 179);
+    background-color: goldenrod;
 }
 
 #social-links ul li a:hover {
@@ -162,17 +161,6 @@ main h2 {
     margin: auto;
 }
 
-/*
-main h1 {
-    font-family: "Palatino Linotype";
-    font-size: 32px;
-    text-align: center;
-    line-height: 80px;
-    margin-top: 30px;
-    text-transform: uppercase;
-}
-*/
-
 main p {
     font-size: 24px;
 }
@@ -182,14 +170,19 @@ main p {
 /* HOMEPAGE STYLES START */
 
 
-
+.container {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: url("../images/backgroundimage.jpg");
+}
 
 
 #home {
-    /* margin: 20px; */
     line-height: 30px;
     text-align: justify;
-    background: url("images/backgroundimage.jpg");
 }
 
 /* HOMEPAGE STYLES END */
@@ -226,6 +219,10 @@ main p {
 #goals {
     display: flex;
     color: black;
+    }
+
+#goals-content {
+    margin-left: 20px;
 }
 
 
@@ -234,12 +231,18 @@ main p {
     color: black;
 }
 
+#experience-content {
+    margin-right: 20px;
+}
+
 #current-skills {
     display: flex;
     color: black;
 }
 
-
+#current-skills-content {
+    margin-left: 20px;
+}
 
  /* ABOUT ME STYLES END */
 
@@ -248,6 +251,15 @@ main p {
 
 
 /* CONTACT STYLES START */
+
+.container {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: url("../images/backgroundimage.jpg");
+}
 
 
 #contact-message {
@@ -263,71 +275,5 @@ main p {
     }
 
 
- 
-
-
-
-/* 
-#contact hr {
-    color: tomato;
-    width: 2px;
-}
-
-#contact-flexbox {
-    display: flex;
-}
-
-#contact-flexbox div:first-child {
-    flex-grow: 3;
-    background-color: transparent;
-}
-
-#contact-flex-box div:last-child {
-    flex-grow: 1;
-}
-
-#contact-form {
-    width: 400px;
-    margin: 20px auto;
-}
-
-#contact-form label {
-    font-size: 24px;
-}
-
-#contact-form input {
-    border: dashed 5px coral;
-    width: 400px;
-    height: 50px;
-    border-radius: 15px;
-    box-sizing: border-box;
-    font-size: 18px;
-    color: coral;
-    padding-left: 11px;
-}
-
-#contact-form .form-buttons {
-    margin: 20px;
-    color: crimson;
-    font-size: 18px;
-    width: 360px;
-}
-
-#contact-form .form-buttons:hover {
-    border: solid goldenrod 5px;
-}
-
-#contact-form textarea {
-    border: solid 5px coral;
-    border-radius: 15px;
-    width: 300px;
-    max-width: 400px;
-    height: 200px;
-    box-sizing: border-box;
-    padding: 11px;
-    font-size: 18px;
-    color: coral;
-}
-*/
 
 /* CONTACT STYLES END */
