@@ -31,7 +31,7 @@ Images & Photos to Use
 
 Icons
 		github
-		instagram
+         	instagram
 		twitter
 		facebook
 
@@ -39,7 +39,7 @@ Portrait Photo to Use (REQ: Minimum)
 		portfolio_pic.jpg
 
 Licensing Info
-		All images are licensed under CC - 			Creative Commons licensing and agreements. Free to 			use. No attribution required... (except for my portfolio image on about me page and image on project page for products created.
+		All images are licensed under CC - Creative Commons licensing and agreements. Free to use. No attribution required... (except for my portfolio image on about me page and image on project page for products created.
 
 -----------------------------------------------------------------
 Site Map
@@ -107,13 +107,13 @@ PROJECTS PAGE
 		Body: Everything is by design! Watch me grow and track 		my progress! 
 
 		Image  	-    Web Design:
-					Through my lens I see everything by 						design with design in mind. Check out 						my git hub to preview my projects.
+					Through my lens I see everything by design with design in mind. Check out my git hub to preview my projects.
 
 		Image      -    Content Creation: 
-					Check out written works in progress, 						more like a work in progress when I'm 						not helping others. Head over to 						tumblr - link to tumblr
+					Check out written works in progress, more like a work in progress when I'm not helping others. Head over to tumblr - link to tumblr
 
 		Image      -    Products Created:
-					Thus far products created in the Sole 						Vitae, LLC "Apotheke" wellness line 						are as follows: Infused oils for hair 						and skin, homemade "organic" and all 						natural soaps, as well as bladder 						wrack, sea moss, and burdock root 						supplements. And more to come!
+					Thus far products created in the Sole Vitae, LLC "Apotheke" wellness line are as follows: Infused oils for hair and skin, homemade "organic" and all natural soaps, as well as bladderwrack, sea moss, and burdock root supplements. And more to come!
 
 
 		Footer: 	Copyright info and social links:
@@ -164,12 +164,12 @@ ABOUT PAGE
 
 
 		Body: 
-			Hello there! Thanks for visiting. Since you are 				here I will tell you a bit about Nastassia 					Serina. She is an extremely detail-oriented 				person. No, but for real! Her lists have lists 				and are exceptionally organized! Nastassia works 				well under pressure! She eats and breathes all 				things creation. Nastassia's goal is to empower 				others through her niche and love for design, 				wellness, and writing. You can say her mission is 			to heal others through her creativity!
+			Hello there! Thanks for visiting. Since you are here I will tell you a bit about Nastassia 					Serina. She is an extremely detail-oriented person. No, but for real! Her lists have lists and are exceptionally organized! Nastassia works well under pressure! She eats and breathes all things creation. Nastassia's goal is to empower others through her niche and love for design, wellness, and writing. You can say her mission is to heal others through her creativity!
 
-			As an experienced public speaker, Nastassia has a 			seasoned background in community outreach whereas 			she has volunteered for several organizations 				such as Code Tenderloin, the Shelter Monitoring 				Committee, the Family Advisory Council, and the 				Guardian Ad Litem Program. She also has an opaque 			love for poetry; side bar! She has ghost written 				as well.
+			As an experienced public speaker, Nastassia has a seasoned background in community outreach whereas 			she has volunteered for several organizations such as Code Tenderloin, the Shelter Monitoring Committee, the Family Advisory Council, and the Guardian Ad Litem Program. She also has an opaque love for poetry; side bar! She has ghost written 	as well.
 
 			Check out her Current skills!
-				-Public speaking -content 								creation -web design -wellness product						formulation and consulting -Microsoft 						Office and more!
+				-Public speaking -content creation -web design -wellness product formulation and consulting -Microsoft Office and more!
 
 
 		Footer: Copyright info and social links
