@@ -195,26 +195,53 @@ main p {
 /* HOMEPAGE STYLES END */
 
 
-/* GALLERY STYLES START */
+/*PROJECTS STYLES START */
+.project-image {
+    width: 150px;
+}
 
-/* #gallery {
+#web {
     display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    margin-top: 20px;
+}
+
+#blog {
+    display: flex;
+}
+
+#products {
+    display: flex;
 }
 
 
-#gallery div {
-    width: 200px;
+ /* PROJECTS STYLES END */
+
+
+
+
+
+
+ /* ABOUT ME STYLES START */
+
+
+#goals {
+    display: flex;
+    color: black;
 }
 
-#gallery div img {
-    width: 200px;
-    margin-bottom: 20px;
+
+#experience {
+    display: flex;
+    color: black;
 }
 
- /* GALLERY STYLES END */
+#current-skills {
+    display: flex;
+    color: black;
+}
+
+
+
+ /* ABOUT ME STYLES END */
 
 
 
