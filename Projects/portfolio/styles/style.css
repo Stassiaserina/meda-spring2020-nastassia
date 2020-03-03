@@ -156,8 +156,9 @@ main {
 }
 
 main h2 {
-
+    font-size: 50px;
     text-align: center;
+    padding: 20px 45px 70px 95px;
     margin: auto;
 }
 
@@ -252,6 +253,7 @@ main p {
 
 /* CONTACT STYLES START */
 
+/*
 .container {
     position: absolute;
     left: 0;
@@ -260,7 +262,7 @@ main p {
     height: 100%;
     background: url("../images/backgroundimage.jpg");
 }
-
+*/
 
 #contact-message {
     border: 8px solid;
