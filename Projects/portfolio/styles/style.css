@@ -158,7 +158,7 @@ main {
 main h2 {
     font-size: 50px;
     text-align: center;
-    padding: 20px 45px 70px 95px;
+    padding: 15px 70px 95px;
     margin: auto;
 }
 
@@ -198,20 +198,33 @@ main p {
     display: flex;
 }
 
+#web-content {
+    margin-left: 20px;
+}
+
 #blog {
     display: flex;
+}
+
+#blog-content {
+    margin-left: 20px;
 }
 
 #products {
     display: flex;
 }
 
+#products-content {
+    margin-left: 20px;
+    margin-inline-start: right;
+}
+
+#products-image {
+    margin-right: 20px;
+}
+
 
  /* PROJECTS STYLES END */
-
-
-
-
 
 
  /* ABOUT ME STYLES START */
