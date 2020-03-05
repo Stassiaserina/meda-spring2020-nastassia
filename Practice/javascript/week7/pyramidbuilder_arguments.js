@@ -35,10 +35,86 @@ function pyramidBuilder(height) {
 
 }
 
-// Loop for 100 times, and run the function with no number provided.
-for (var i = 0; i < 100; i++) {
-    pyramidBuilder();
-}
+
+// Gets an array built by process.argv and stores in argument's variable.
+ var arguments = process.argv;
+ console.log(arguments);
+
+ // We grab the third item from the argument's array and store it in height.
+ var height = arguments[2];
+
+ // we grab the 4th item from argument's array and convert it to a number then store in loops.
+ var loops = parseInt( arguments[3] );
+
+
+ // Take value of height, convert into a number, put it back into height.
+ height = parseInt(height);
+ console.log(height);
+
+
+ // We loop for the amount of loops, and run pyramidBuilder with the appropriate height value.
+ for (var i = 0; 1 < 100; i++){
+    pyramidBuilder(height);
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
